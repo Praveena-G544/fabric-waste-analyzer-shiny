@@ -1,0 +1,6 @@
+piece_name,length,width,quantity,rotation_allowed
+Front,100,50,2,No
+Back,100,50,2,No
+Sleeve,60,40,4,Yes
+Collar,30,20,2,Yes
+Cuff,25,6,4,Yes
