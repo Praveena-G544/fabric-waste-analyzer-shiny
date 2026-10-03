@@ -1,4 +1,4 @@
-# 🧵 Fabric Waste Analyzer (Shiny version)
+# Fabric Waste Analyzer (Shiny version)
 **Smart Fabric Cutting and Waste Reduction System — Advanced Mini Project**
 
 A single, self-contained **R Shiny app**. No separate frontend, no Plumber
@@ -78,17 +78,11 @@ git remote add origin https://github.com/<your-username>/fabric-waste-analyzer.g
 git push -u origin main
 ```
 
-## Notes for your viva
+## My Shiny Project
 
-- This is a genuine **R backend** project — every calculation runs in R,
-  and Shiny is R's standard framework for turning R code into an
-  interactive website.
-- The **shelf-packing algorithm** (`layout_generator.R`) is a simplified,
-  explainable method for arranging rectangles — not industrial nesting
-  software.
-- Piece-size formulas (`piece_calculator.R`) are simplified educational
-  formulas, not professional tailoring standards.
-- Efficiency categories (Excellent/Good/Moderate/High Waste) are
-  project-defined, not official industry standards.
-- CSV upload is optional; the app works fully from manual input.
-- No AI/ML is used; it's mentioned only as a possible future enhancement.
+An interactive data analysis and visualization application developed using R and Shiny.
+
+## Live Application
+
+[View the Live Shiny App](https://praveena010203.shinyapps.io/fabric-waste-analyzer-shiny/)
+
